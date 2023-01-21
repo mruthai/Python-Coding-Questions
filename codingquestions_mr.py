@@ -61,4 +61,4 @@ def is_consecutive(a_list):
 
 
 numbers = [2,3,4,5,6,7]
-is_consecutive(numbers)
+print(is_consecutive(numbers))
